@@ -1,0 +1,23 @@
+{
+   "0": {
+      "type": "Security_Issue"
+   },
+   "1": {
+      "type": "Logical_Bug"
+   },
+   "3": {
+      "type": "Browser_Compatibility"
+   },
+   "4": {
+      "type": "Application_Crash"
+   },
+   "5": {
+      "type": "GUI_Bug"
+   },
+   "6": {
+      "type": "Database_Bug"
+   },
+   "7": {
+      "type": "System_Related_Bug"
+   }
+}

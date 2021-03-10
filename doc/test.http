@@ -1,0 +1,28 @@
+
+
+
+
+curl -v http://127.0.0.1:8083/api/projects
+###
+curl -v http://127.0.0.1:8083/api/projects?_id=0
+
+###
+curl -d '{name: "testcurl", description: "testcurl description"}' http://127.0.0.1:8083/api/projects 
+
+###
+curl -v http://127.0.0.1:8083/api/projectcomponents
+###
+curl -v http://127.0.0.1:8083/api/components
+###
+curl -v http://127.0.0.1:8083/api/components?_id=0
+###
+
+curl -v http://127.0.0.1:8083/api/qsemployee
+###
+curl -v http://127.0.0.1:8083/api/qsemployee?_id=0
+###
+curl -v http://127.0.0.1:8083/api/swengineer
+###
+curl -v http://127.0.0.1:8083/api/swengineer?_id=1
+
+-------------------------------------------------------------------------------

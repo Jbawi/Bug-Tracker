@@ -1,0 +1,11 @@
+{
+   "0": {
+      "type": "Wrong Datatype"
+   },
+   "1": {
+      "type": "Bad conditional"
+   },
+   "6": {
+      "type": "new data"
+   }
+}
